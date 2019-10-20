@@ -1,10 +1,6 @@
 
 ## Background
-Recife is the capital of the state of Pernambuco, Brazil, the city is known as a technology center for having many technology companies.
-The city has 104 neighborhoods, some neighborhoods are knowledge as a cultural pole and other is knowledge for the bars and restaurants.
-
-These venues are rated by users on the Foursquare, these rates can indicate how good is a neighborhood or if a neighborhood is crowded with a category of venue.
-With this informations, the project will define the best neighborhoods
+Recife is the capital of the state of pernambuco, Brazil, the city is known as a technology center for having many technology companies. The city has 94 neighborhoods, some neighborhoods are knowledge as a cultural pole and other is knowledge for the bars and restaurants.
 
 ## Problem
-Data that might contribute to determining the best neighborhoods are the number of venues and his rated, provide by Foursquare.  The project aims to determine the best neighborhoods in the city using these criteria
+Identify and analyze of venues so that we can decide the best neighborhoods. Find neighborhoods that have gym demands but don't have 'gym fitness', type gym that the SmartFit is expert
